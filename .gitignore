@@ -1,0 +1,46 @@
+# ---- Build and Compiler Files ----
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.out
+
+# ---- IDE/Editor Files ----
+*.log
+*.bak
+*.tmp
+*.swp
+*.sdf
+*.user
+*.aps
+*.ncb
+*.suo
+
+# ---- Reqtify Temp Files (Optional) ----
+*.log
+*.traceability
+*.rqtf.backup
+*.rqtf~
+
+# ---- Reqtify Analysis Cache (optional) ----
+/AnalysisResults/
+/GeneratedReports/
+
+# ---- Backup & Generated Docs ----
+*.pdf
+*.docx~
+*.docx.backup
+
+# ---- Folders to Ignore ----
+/build/
+/debug/
+/release/
+/bin/
+/obj/
+/__pycache__/
+
+# ---- System Files ----
+Thumbs.db
+.DS_Store
+desktop.ini
