@@ -19,6 +19,7 @@
 void mainscheck()												//this section is working correctly
 {	
 // Implements CLS_SW_L2_Req_7
+// Implements SP-1
 
 		if(!t2)
 		{	
@@ -64,6 +65,7 @@ void disp()														//this section is working correctly
 	{															//to display loaad on mains/invertor.
 
 // Implements CLS_SW_Mgmt_Req_6
+// Implements SP-2
 	if(bvf)
 		{
 			if(orc==1)
