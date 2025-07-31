@@ -15,7 +15,7 @@
 #include "types.h"
 #include "cruise_control_r13_v0_private.h"
 
-// Implements UPS_DESIGN_REQ001
+// Implements CLS_SW_Mgmt_Req_2
 void bvcheck()													//this section is working correctly
 {	
 
@@ -31,7 +31,7 @@ void bvcheck()													//this section is working correctly
 	t1  = 1;
 	}
 }   
-// Implements UPS_DESIGN_REQ002
+// Implements CLS_SW_Mgmt_Req_3
 void solarconditioncheck()
 {
 
