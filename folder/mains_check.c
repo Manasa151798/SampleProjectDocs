@@ -18,7 +18,7 @@
 
 void mainscheck()												//this section is working correctly
 {	
-// Implements CLS_SW_Mgmt_Req_5
+// Implements CLS_SW_L2_Req_7
 
 		if(!t2)
 		{	
